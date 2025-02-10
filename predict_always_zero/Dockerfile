@@ -1,3 +1,5 @@
+# There will be normal pipeline to run main.py with file
+
 FROM continuumio/anaconda3:latest
 
 CMD mkdir /opt/results
